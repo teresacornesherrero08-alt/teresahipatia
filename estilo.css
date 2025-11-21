@@ -1,0 +1,51 @@
+<style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 0.9;
+            background-color: rgb(89, 02, 90);
+            color: #333;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            background-color: rgb(255, 255, 255);
+            font-family: 'Arial', sans-serif;
+            color: rgb(105, 97, 105);
+        }
+        h1 {
+            font-size: 36px;
+            text-align: center;
+        }
+        h3 {
+            color: #555;
+            border-bottom: 1px solid #ccc;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        p {
+            background-color: rgb(255, 255, 255);
+            color: rgb(105, 97, 105);
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .date {
+            font-size: 0.8em;
+            color: rgb(105, 97, 105);
+        }
+        .post {
+            margin-bottom: 40px;
+                }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+
